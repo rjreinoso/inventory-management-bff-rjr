@@ -45,6 +45,6 @@ vcsInfo:
 
 partOf: ""
 
-connectsTo: ""
+connectsTo: "inventory-service-rjr"
 
 runtime: nodejs
